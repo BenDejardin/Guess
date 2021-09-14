@@ -25,3 +25,7 @@ CardGame32Test.
 Dans le challenge 4 nous nous sommes occupées du fonctionnement du jeu. 
 Nous avons permis à l'utilisateur d'avoir une aide lui indiquant si la position de la carte était + ou - élevé que son estimation.
 Nous avons ajouter l'utilisateur chanceux ou non selon si son nombre d'essai était supérieur ou non au logarithme binaire de 32 (le nombre de cartes totales dans un jeu).
+
+## Lien vers le dépôt initial:
+
+https://gitlab.com/okpu/guesswhat
